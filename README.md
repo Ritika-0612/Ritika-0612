@@ -1,4 +1,4 @@
-Hi, I’m Ritika Manchanda
+# Hi, I’m Ritika Manchanda
 
  B.Tech Student (CSE AI ML)
  
